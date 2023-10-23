@@ -66,7 +66,9 @@ To answer this question: We find the average daily atmospheric pressure of all t
 ![Alt text](image-1.png)
 
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:For answering this question we Visually estimate the result by plotting the daily minimum temperature.
+
 ![Alt text](image-2.png)
 
 Finally DataFrame has been exported to a CSV file and stored in the resources folder.
+
 After completeting the web scraping and data analysis the browser has been closed.
